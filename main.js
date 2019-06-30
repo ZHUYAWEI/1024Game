@@ -188,51 +188,51 @@ $(function () {
                     break;
                 case '2':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/1.jpg")');
+                    items.eq(i).css('background-image', 'url("./pt/11.png")');
                     break;
                 case '4':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/2.jpg")');                    
+                    items.eq(i).css('background-image', 'url("./pt/12.jpg")');                    
 					break;
                 case '8':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/3.jpg")');                   
+                    items.eq(i).css('background-image', 'url("./pt/13.png")');                   
 					break;
                 case '16':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/4.jpg")');                    
+                    items.eq(i).css('background-image', 'url("./pt/14.jpg")');                    
 					break;
                 case '32':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/5.jpg")');                    
+                    items.eq(i).css('background-image', 'url("./pt/15.jpg")');                    
 					break;
                 case '64':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/6.jpg")');                   
+                    items.eq(i).css('background-image', 'url("./pt/16.png")');                   
 					break;
                 case '128':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/7.jpg")');                    
+                    items.eq(i).css('background-image', 'url("./pt/17.png")');                    
 					break;
                 case '256':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/8.jpg")');                    
+                    items.eq(i).css('background-image', 'url("./pt/18.png")');                    
 					break;
                 case '512':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/9.jpg")');                    
+                    items.eq(i).css('background-image', 'url("./pt/19.png")');                    
 					break;
                 case '1024':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/10.jpg")');                    
+                    items.eq(i).css('background-image', 'url("./pt/20.jpg")');                    
 					break;
                 case '2048':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/11.jpg")');                    
+                    items.eq(i).css('background-image', 'url("./pt/21.png")');                    
 					break;
                 case '4096':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/12.jpg")');                    
+                    items.eq(i).css('background-image', 'url("./pt/21.jpg")');                    
 					break;
             }
         }
