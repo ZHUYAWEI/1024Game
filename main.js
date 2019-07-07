@@ -188,7 +188,7 @@ $(function () {
                     break;
                 case '2':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/11.png")');
+                    items.eq(i).css('background-image', 'url("./pt/11.jpg")');
                     break;
                 case '4':
 				    items.eq(i).css('background-size', '100%');
@@ -196,7 +196,7 @@ $(function () {
 					break;
                 case '8':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/13.png")');                   
+                    items.eq(i).css('background-image', 'url("./pt/13.jpg")');                   
 					break;
                 case '16':
 				    items.eq(i).css('background-size', '100%');
@@ -208,19 +208,19 @@ $(function () {
 					break;
                 case '64':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/16.png")');                   
+                    items.eq(i).css('background-image', 'url("./pt/16.jpg")');                   
 					break;
                 case '128':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/17.png")');                    
+                    items.eq(i).css('background-image', 'url("./pt/17.jpg")');                    
 					break;
                 case '256':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/18.png")');                    
+                    items.eq(i).css('background-image', 'url("./pt/18.jpg")');                    
 					break;
                 case '512':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/19.png")');                    
+                    items.eq(i).css('background-image', 'url("./pt/19.jpg")');                    
 					break;
                 case '1024':
 				    items.eq(i).css('background-size', '100%');
@@ -228,7 +228,7 @@ $(function () {
 					break;
                 case '2048':
 				    items.eq(i).css('background-size', '100%');
-                    items.eq(i).css('background-image', 'url("./pt/21.png")');                    
+                    items.eq(i).css('background-image', 'url("./pt/21.jpg")');                    
 					break;
                 case '4096':
 				    items.eq(i).css('background-size', '100%');
